@@ -233,6 +233,15 @@
   logo: https://pbs.twimg.com/profile_images/826103316643975169/Sa_ZKNtb_400x400.jpg
 
 ###
+### Italy
+###
+- name: Python Milano
+  lat: 45.46461797
+  lng: 9.190784938
+  url: http://milano.python.it/
+  logo: http://milano.python.it/assets/img/pymi.png
+
+###
 ### Mauritius
 ###
 - name: Python Mauritius User Group (PYMUG)
